@@ -1,2 +1,2 @@
 # projects
-Egyszerű bináris osztályozási projekt PyTorch-ban.
+Simple binary classification project in PyTorch
